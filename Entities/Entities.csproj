@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <PackageId>SartainStudios.Entities</PackageId>
+    <Authors>John Sartain</Authors>
+    <Company>Sartain Studios</Company>
+    <Product>Sartain Studios Entities</Product>
+    <Description>Simple entities library</Description>
+    <Copyright>Sartain Studios</Copyright>
+    <PackageProjectUrl>https://github.com/jhnsartain3/SartainStudiosEntities</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jhnsartain3/SartainStudiosEntities</RepositoryUrl>
+    <RepositoryType>Nuget Package</RepositoryType>
+    <PackageTags>Entities</PackageTags>
+    <RootNamespace>SartainStudios.Entities</RootNamespace>
+  </PropertyGroup>
+
+</Project>
